@@ -42,7 +42,7 @@ class UpperConfidenceBound:
 
 
 
-path = "Book1.csv"
+path = "MovieReview.csv"
 N = 100
 d = 5
 ucb = UpperConfidenceBound(path,N,d)
